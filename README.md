@@ -1,6 +1,11 @@
 # Projeto SUS Mortalidade
-Esse projeto foi desenvolvido com o objetivo de entender melhor as condições de saúde dos estados e cidades do Brasil, para ser possível realizar análise comparativa entre eles e gerar insights. Todos os termos do projeto foram retirados inalterados do banco de dados do SUS.
 
-O SUS disponibiliza os arquivos no formato dbc no site: https://datasus.saude.gov.br/transferencia-de-arquivos/ ao clicar em:
+Project status: In progress
+
+# Project objective
+
+This project was developed with the goal of better understanding the health conditions of the states and cities of Brazil, in order to be able to perform comparative analysis between them and generate insights. All the terms of the project relating to race, sex and other categorizations were taken unaltered from the SUS database.
+
+The SUS makes the files available in the dbc format on the website: https://datasus.saude.gov.br/transferencia-de-arquivos/ by clicking in:
 
 SIM - Sistema de Informação de Mortalidade -> Dados -> DO - Declarações de Óbito - 1979 a 2021 -> Selecionar Ano desejado -> Selecionar estados -> Download -> arquivo.zip.
