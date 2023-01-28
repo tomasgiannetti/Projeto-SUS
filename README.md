@@ -51,8 +51,22 @@ I started analysing the database and discovered that important columns had brazi
 
 The last step was cleaning columns, which several methods were used.
 
-* Data Analysis
+* Data Analysis and Visualization
 
+To accomplish the project objective, the dashboards were made until the city capillarity
+
+Brazil's dashboard
+
+![image](https://user-images.githubusercontent.com/115484742/215282158-e3a2697e-0f5a-4a01-bace-94af3517060c.png)
+
+Brazil's region dashbord:
+
+![image](https://user-images.githubusercontent.com/115484742/215282264-5ca9ca10-99ee-4a55-8684-6c06d9b53c1b.png)
+
+
+Brazil's states dashboard:
+
+![image](https://user-images.githubusercontent.com/115484742/215282309-a8f8e7c6-418e-4e60-8c65-eff69c95781b.png)
 
 
 # Conclusion
