@@ -69,6 +69,3 @@ Brazil's states dashboard:
 ![image](https://user-images.githubusercontent.com/115484742/215282309-a8f8e7c6-418e-4e60-8c65-eff69c95781b.png)
 
 
-# Conclusion
-
-# Contact
